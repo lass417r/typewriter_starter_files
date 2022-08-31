@@ -1,7 +1,6 @@
 "use strict";
 
 document.addEventListener("DOMContentLoaded", init);
-let i;
 let i = 0;
 let hiddenText;
 let showText;
